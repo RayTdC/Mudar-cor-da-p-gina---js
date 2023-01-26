@@ -1,2 +1,2 @@
 # Mudar cor js
-Alguns códigos que podem ser úteis
+Alguns códigos que podem ser úteis.
