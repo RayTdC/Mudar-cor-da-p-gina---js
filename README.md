@@ -1,2 +1,2 @@
-# Mudar-cor-da-p-gina---js
+# Mudar cor da página js
 Alguns códigos que podem ser úteis
