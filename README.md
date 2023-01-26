@@ -1,2 +1,2 @@
-# Mudar cor da página js
+# Mudar cor js
 Alguns códigos que podem ser úteis
